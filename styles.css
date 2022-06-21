@@ -1,0 +1,12 @@
+h1{
+    color: rgb(225, 27, 159);
+}
+.big-title{
+    color: blueviolet;
+    font-family: cursive;
+    font-weight: bold;
+   
+}
+.margin-50{
+    margin: 50px;
+}
